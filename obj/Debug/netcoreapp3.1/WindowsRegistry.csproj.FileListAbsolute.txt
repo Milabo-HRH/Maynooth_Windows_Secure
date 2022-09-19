@@ -1,0 +1,76 @@
+C:\Users\BFaghih\source\repos\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.exe
+C:\Users\BFaghih\source\repos\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.deps.json
+C:\Users\BFaghih\source\repos\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.json
+C:\Users\BFaghih\source\repos\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.dev.json
+C:\Users\BFaghih\source\repos\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\source\repos\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\source\repos\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.Form1.resources
+C:\Users\BFaghih\source\repos\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.GenerateResource.cache
+C:\Users\BFaghih\source\repos\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfoInputs.cache
+C:\Users\BFaghih\source\repos\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfo.cs
+C:\Users\BFaghih\source\repos\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.CoreCompileInputs.cache
+C:\Users\BFaghih\source\repos\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\source\repos\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\source\repos\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.genruntimeconfig.cache
+C:\Users\BFaghih\source\repos\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csprojAssemblyReference.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.exe
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.deps.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.dev.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csprojAssemblyReference.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.Form1.resources
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.GenerateResource.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfoInputs.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfo.cs
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.CoreCompileInputs.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.genruntimeconfig.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.exe
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.deps.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.dev.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csprojAssemblyReference.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.Form1.resources
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.GenerateResource.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfoInputs.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfo.cs
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.CoreCompileInputs.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\Sample Codes - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.genruntimeconfig.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.exe
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.deps.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.dev.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.AssemblyReference.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.Form1.resources
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.GenerateResource.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfoInputs.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfo.cs
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.CoreCompileInputs.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2021\Sample projects - Without codes\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.genruntimeconfig.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.exe
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.deps.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.runtimeconfig.dev.json
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\bin\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.AssemblyReference.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.Form1.resources
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.GenerateResource.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfoInputs.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.AssemblyInfo.cs
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.csproj.CoreCompileInputs.cache
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.dll
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.pdb
+C:\Users\BFaghih\OneDrive - Maynooth University\Windows Security\2022\Sample projects - Without codes - Copy\WindowsRegistry\obj\Debug\netcoreapp3.1\WindowsRegistry.genruntimeconfig.cache
